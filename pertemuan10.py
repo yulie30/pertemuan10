@@ -70,5 +70,5 @@ st.plotly_chart(grafik)
 
 st.write()
 
-https://share.streamlit.io/
-https://github.com/
+#https://share.streamlit.io/
+#https://github.com/
